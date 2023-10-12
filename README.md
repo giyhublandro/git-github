@@ -1,2 +1,2 @@
 # git-github
-For turorials purpose on Eduraka Plateform
+Description : For turorials purpose on Eduraka Plateform
